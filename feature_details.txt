@@ -1,2 +1,3 @@
 We want to make git accessable for all of the user. Git Hub plays a very important role in today's time.
+We want that all the users get benefits of git hub.
 We want to access Git to all.
